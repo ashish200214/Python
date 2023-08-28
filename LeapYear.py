@@ -5,4 +5,4 @@ def checkLeap(year):
     print("Not Leap Year")
 
 year = int(input("Enter year"))
-checLeap(year)
+checkLeap(year)
